@@ -1,0 +1,96 @@
+Here's my items recipes:
+some ingredients might need quantities or temperatures
+
+| Ingredient 1 | Ingredient 2 | Result |
+| ------------- | ------------- | ------------- |
+| Knife  | Burnt Edible_Base  | DadaCharcoalPiece  |
+| BoxCerealCrunchin | BoxCerealCrunchin | BoxCerealCrunchin |
+| BoxCerealCrunchin  | BoxCerealCrunchin  | DadaSpawned_BoxCerealCrunchin_Kosmostar |
+| BoxCerealCrunchin | BoxCerealCrunchin | DadaSpawned_BoxCerealCrunchin_Frosties |
+| BoxCerealCrunchin | BoxCerealCrunchin | DadaSpawned_BoxCerealCrunchin_Nesquik |
+| BoxCerealCrunchin_Coffee | BoxCerealCrunchin_Coffee | DadaSpawned_Coffee |
+| BoxCerealCrunchin_Coffee | BoxCerealCrunchin_Coffee | DadaSpawned_GreenTea |
+| BoxCerealCrunchin_Coffee | BoxCerealCrunchin_Coffee | DadaSpawned_BlackTea |
+| DadaSpawned_Coffee | Paper | DadaCoffeePacket |
+| DadaSpawned_GreenTea | Paper | DadaGreenTeaPacket |
+| DadaSpawned_BlackTea | Paper | DadaBlackTeaPacket |
+|------------- | ------------- | ------------- |
+| PowderedMilk | Bottle_Base | DadaDrink_FreshMilk |
+| PowderedMilk | Bottle_Base | DadaDrink_MilkBottle |
+| PowderedMilk | Bottle_Base | DadaDrink_MilkCarton |
+| PowderedMilk | Bottle_Base | DadaDrink_MilkGallon |
+| DadaDrink_MilkBase | DadaDrink_MilkBase | DadaDrink_MilkShake |
+| DadaDrink_MilkBase | DadaSpawned_Yeast | DadaDrink_CurdsAndWhey |
+| Dry Coffee Items | Bottle_Base | DadaDrink_Coffee |
+| Dry Coffee Items | DadaDrink_MilkBase | DadaDrink_MilkCoffee |
+| Coffee Items | DadaDrink_MilkBase | DadaDrink_MilkCoffeeArt |
+| Dry Green Tea Items | Bottle_Base | DadaDrink_GreenTea |
+| Dry Black Tea Items | Bottle_Base | DadaDrink_BlackTea |
+|------------- | ------------- | ------------- |
+| Tomato/Zucchini/Pepper | Tomato/Zucchini/Pepper | DadaRaw_Salad |
+| Tomato | Tomato | DadaRaw_TomatoSalad |
+| Rice | Bottle_Base | DadaRaw_Rice |
+| DadaRaw_Rice | FishFillet/Tomato/Zucchini/Pepper | DadaRaw_PokeBowl |
+| BoxCerealCrunchin/DadaSpawned_BoxCerealCrunchin_Frosties | DadaDrink_MilkBase | DadaRaw_CerealCrunchin_Frosties |
+| DadaSpawned_BoxCerealCrunchin_Nesquik | DadaDrink_MilkBase | DadaRawCerealCrunchin_Nesquik |
+| DadaSpawned_BoxCerealCrunchin_Kosmostar | DadaDrink_MilkBase | DadaRaw_CerealCrunchin_Kosmostar |
+| DadaRaw_Rice | FishFillet | DadaRaw_SushiMaki |
+| DadaRaw_Rice | FishFillet | DadaRaw_SushiOnigiri |
+| DadaDrink_MilkBase/Lard | DadaDrink_MilkBase/Lard | DadaRaw_SmallButter |
+| DadaDrink_MilkBase/Lard | DadaDrink_MilkBase/Lard | DadaRaw_BigButter |
+| DadaDrink_MilkBase | DadaSpawned_Yeast | DadaRaw_Yogourt |
+| DadaDrink_CurdsAndWhey | BurlapSack/DadaCheeseMold | DadaRaw_Mozza & DadaDrink_Whey |
+| DadaDrink_CurdsAndWhey | BurlapSack/DadaCheeseMold | DadaRaw_CheddarCurds & DadaDrink_Whey |
+| DadaDrink_CurdsAndWhey | BurlapSack/DadaCheeseMold | DadaRaw_FreshGoatCheese & DadaDrink_Whey |
+| DadaDrink_CurdsAndWhey | BurlapSack/DadaCheeseMold | DadaRaw_Feta & DadaDrink_Whey |
+| DadaRaw_Yogourt | DadaRaw_Yogourt | DadaRaw_FrozenYogurt |
+| DadaDrink_MilkBase | DadaDrink_MilkBase | DadaRaw_VanillaChocoSwirl |
+| DadaDrink_MilkBase | DadaDrink_MilkBase | DadaRaw_VanillaIceCream |
+| DadaDrink_MilkBase | DadaDrink_MilkBase | DadaRaw_ChocoIScream |
+| PumpkinSeeds | PumpkinSeeds | DadaRaw_PumpkinSeeds |
+|------------- | ------------- | ------------- |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
