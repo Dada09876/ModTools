@@ -104,3 +104,5 @@ Here's my items recipes:
 | Bottle_Base | HumanSteakMeat | DadaCannibal_EyeballSoup |
 | Knife | HumanSteakMeat | DadaCannibal_Jerky |
 |------------- | ------------- | ------------- |
+| Pliers | Dada_RawFoodCan_LSVeggies (Baked) | Dada_PreservedFoodCan_LSVeggies |
+| Knife/CanOpener | Dada_PreservedFoodCan_LSVeggies | Dada_PreservedFoodCan_Colorbase_Opened |
