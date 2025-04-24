@@ -104,6 +104,11 @@ Here's my items recipes:
 | Guts | HumanSteakMeat | DadaCannibal_EntrailsSpaghetti |
 | Bottle_Base | HumanSteakMeat | DadaCannibal_EyeballSoup |
 | Knife | HumanSteakMeat | DadaCannibal_Jerky |
+| Bones | Hammer | Bone Meal |
+| Bone Meal | Humansteak Meat | Waste Bread |
+| Waste Bread | Hammer | Waste Bread - Pizza |
+| Blood | Human Steak Meat | Blood Sauce |
+| Waste Bread - Pizza | Blood Sauce | Cannibal Pizza Marinara |
 |------------- | ------------- | ------------- |
 | Pliers | Dada_RawFoodCan_LSVeggies (Baked) | Dada_PreservedFoodCan_LSVeggies |
 | Knife/CanOpener | Dada_PreservedFoodCan_LSVeggies | Dada_PreservedFoodCan_Colorbase_Opened |
