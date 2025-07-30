@@ -4,111 +4,32 @@ Here's my non-exhaustive recipe list:
 | Ingredient 1 | Ingredient 2 | Result |
 | ------------- | ------------- | ------------- |
 | Knife  | Burnt Edible_Base  | DadaCharcoalPiece  |
-| BoxCerealCrunchin | BoxCerealCrunchin | BoxCerealCrunchin |
-| BoxCerealCrunchin  | BoxCerealCrunchin  | DadaSpawned_BoxCerealCrunchin_Kosmostar |
-| BoxCerealCrunchin | BoxCerealCrunchin | DadaSpawned_BoxCerealCrunchin_Frosties |
-| BoxCerealCrunchin | BoxCerealCrunchin | DadaSpawned_BoxCerealCrunchin_Nesquik |
-| BoxCerealCrunchin_Coffee | BoxCerealCrunchin_Coffee | DadaSpawned_Coffee |
-| BoxCerealCrunchin_Coffee | BoxCerealCrunchin_Coffee | DadaSpawned_GreenTea |
-| BoxCerealCrunchin_Coffee | BoxCerealCrunchin_Coffee | DadaSpawned_BlackTea |
-| DadaSpawned_Coffee | Paper | DadaCoffeePacket |
-| DadaSpawned_GreenTea | Paper | DadaGreenTeaPacket |
-| DadaSpawned_BlackTea | Paper | DadaBlackTeaPacket |
-|------------- | ------------- | ------------- |
 | PowderedMilk | Bottle_Base | DadaDrink_FreshMilk |
-| PowderedMilk | Bottle_Base | DadaDrink_MilkBottle |
-| PowderedMilk | Bottle_Base | DadaDrink_MilkCarton |
-| PowderedMilk | Bottle_Base | DadaDrink_MilkGallon |
-| DadaDrink_MilkBase | DadaDrink_MilkBase | DadaDrink_MilkShake |
-| DadaDrink_MilkBase | DadaSpawned_Yeast | DadaDrink_CurdsAndWhey |
 | Dry Coffee Items | Bottle_Base | DadaDrink_Coffee |
-| Dry Coffee Items | DadaDrink_MilkBase | DadaDrink_MilkCoffee |
-| Coffee Items | DadaDrink_MilkBase | DadaDrink_MilkCoffeeArt |
-| Dry Green Tea Items | Bottle_Base | DadaDrink_GreenTea |
-| Dry Black Tea Items | Bottle_Base | DadaDrink_BlackTea |
-|------------- | ------------- | ------------- |
 | Tomato/Zucchini/Pepper | Tomato/Zucchini/Pepper | DadaRaw_Salad |
-| Tomato | Tomato | DadaRaw_TomatoSalad |
 | Rice | Bottle_Base | DadaRaw_Rice |
-| DadaRaw_Rice | FishFillet/Tomato/Zucchini/Pepper | DadaRaw_PokeBowl |
 | BoxCerealCrunchin/DadaSpawned_BoxCerealCrunchin_Frosties | DadaDrink_MilkBase | DadaRaw_CerealCrunchin_Frosties |
-| DadaSpawned_BoxCerealCrunchin_Nesquik | DadaDrink_MilkBase | DadaRawCerealCrunchin_Nesquik |
-| DadaSpawned_BoxCerealCrunchin_Kosmostar | DadaDrink_MilkBase | DadaRaw_CerealCrunchin_Kosmostar |
 | DadaRaw_Rice | FishFillet | DadaRaw_SushiMaki |
-| DadaRaw_Rice | FishFillet | DadaRaw_SushiOnigiri |
 | DadaDrink_MilkBase/Lard | DadaDrink_MilkBase/Lard | DadaRaw_SmallButter |
-| DadaDrink_MilkBase/Lard | DadaDrink_MilkBase/Lard | DadaRaw_BigButter |
 | DadaDrink_MilkBase | DadaSpawned_Yeast | DadaRaw_Yogourt |
 | DadaDrink_CurdsAndWhey | BurlapSack/DadaCheeseMold | DadaRaw_Mozza & DadaDrink_Whey |
-| DadaDrink_CurdsAndWhey | BurlapSack/DadaCheeseMold | DadaRaw_CheddarCurds & DadaDrink_Whey |
-| DadaDrink_CurdsAndWhey | BurlapSack/DadaCheeseMold | DadaRaw_FreshGoatCheese & DadaDrink_Whey |
-| DadaDrink_CurdsAndWhey | BurlapSack/DadaCheeseMold | DadaRaw_Feta & DadaDrink_Whey |
 | DadaRaw_Yogourt | DadaRaw_Yogourt | DadaRaw_FrozenYogurt |
-| DadaDrink_MilkBase | DadaDrink_MilkBase | DadaRaw_VanillaChocoSwirl |
-| DadaDrink_MilkBase | DadaDrink_MilkBase | DadaRaw_VanillaIceCream |
 | DadaDrink_MilkBase | DadaDrink_MilkBase | DadaRaw_ChocoIScream |
 | PumpkinSeeds | PumpkinSeeds | DadaRaw_PumpkinSeeds |
-|------------- | ------------- | ------------- |
 | Pot | BurlapSack | DadaCheeseMold |
 | DadaCheeseMold | BurlapSack | DadaCheeseMold |
-|------------- | ------------- | ------------- |
 | Vegetable | Vegetable | Dada_RawFoodCan_LSVeggies |
 | Meat | Meat | Dada_RawFoodCan_STAGham |
 | Meat | Vegetable | Dada_RawFoodCan_ESPENChunkySoup |
-| Meat | Meat | Dada_RawFoodCan_LSSPAM |
-| GreenBellPepper | Meat | Dada_RawFoodCan_STAGchili |
-| Tomato | Tomato | Dada_RawFoodCan_DicedTomatoes |
-| Tomato | Tomato/Zucchini/Pepper | Dada_RawFoodCan_Ketchup |
-| FishFillet/Rice | Meat/Vegetable | Dada_RawFoodCan_Paella |
-| Pumpkin | Pumpkin | Dada_RawFoodCan_PumpkinPuree |
-| Chicken/Rabbit | Chicken/Rabbit | Dada_RawFoodCan_Quail |
-| Zucchini | Zucchini/Pepper | Dada_RawFoodCan_Relish |
-| Potatoes | Meat/Vegetable/FishFillet | Dada_RawFoodCan_Samosa |
-| Tomato | Meat | Dada_RawFoodCan_HomemadeChili |
-| SlicedPumpkin | SlicedPumpkin | Dada_RawFoodCan_HomemadePumpkinPuree |
-| FishFillet | FishFillet | Dada_RawFoodCan_Crab |
-| FishFillet | FishFillet | Dada_RawFoodCan_Clam |
-|------------- | ------------- | ------------- |
 | DadaSpawned_Flour | DadaSpawned_Yeast | DadaBread_Base |
-| DadaBread_Base | Hammer/MeatTenderizer | DadaBread_Pita |
 | DadaBread_Base | Hammer/MeatTenderizer | DadaBread_Loaf |
-| DadaBread_Base | Hammer/MeatTenderizer | DadaBread_Baguette |
-| DadaBread_Base | Hammer/MeatTenderizer | DadaBread_Pasta |
-| DadaBread_Base | Hammer/MeatTenderizer | DadaBread_Pizza |
 | DadaBread_Pasta | TomatoBased Cans & Sauce | DadaDish_Spaghetti |
-| DadaBread_Pasta | TomatoBased Cans & Sauce | DadaDish_Cannelloni |
-| DadaBread_Pasta | TomatoBased Cans & Sauce | DadaDish_Bowties |
-| DadaBread_Pasta | TomatoBased Cans & Sauce | DadaDish_Lasagna |
-| DadaBread_Pasta | TomatoBased Cans & Sauce | DadaDish_Rigatoni |
-| DadaBread_Pizza | TomatoBased Cans & Sauce | DadaBread_PizzaBase |
 | Meat | Hammer/MeatTenderizer | DadaDish_GroundMeat |
 | Potatoes | Hammer/MeatTenderizer | DadaDish_MashedPotatoes |
 | Bone/Lard | Bottle_Base | DadaSoup_ChickenBroth |
-| DadaBread_Pasta/ChickenBreastMeat | DadaSoup_ChickenBroth | DadaSoup_ChickenNoodleSoup |
-| DadaDish_GroundMeat/BakedBeansCan_Opened | TomatoBased Cans & Sauce | DadaDish_Chili |
-| DadaSpawned_Flour | DadaSoup_ChickenBroth | DadaSoup_Gravy |
-| Meat | Rice | DadaDish_Gumbo |
-| MushroomBase | MushroomBase/DadaSoup_Gravy | DadaDish_MushroomCream |
 | MushroomBase | MushroomBase | DadaDish_SauteedMushrooms |
-| DadaBread_Base | DadaDrink_MilkBase | DadaDish_Pancakes |
 | DadaBread_Base | Ingredients that you would put in a pie | DadaDish_Pie |
-| DadaSoup_ChickenBroth | TomatoBased Cans & Sauce | DadaSoup_Ragout |
 | FishFillet | Rice | DadaDish_SeafoodGumbo |
 | Tomato | Tomato | DadaSoup_TomatoSauce |
-| DadaSoup_TomatoSauce | DadaSoup_ChickenBroth | DadaSoup_TomatoSoup |
-| DadaBread_Pasta | DadaDrink_FreshMilk/DadaRaw_CheeseBase | DadaDish_MacaroniAndCheese |
-| DadaDish_MashedPotatoes | DadaDish_GroundMeat | DadaDish_ShepardsPie |
-| Saucy Ingredients | PigSteakMeat/BoarSteakMeat | DadaDish_PulledPork |
-| Guts | DadaDish_GroundMeat | DadaDish_Sausage |
-|------------- | ------------- | ------------- |
-| Guts | HumanSteakMeat | DadaCannibal_EntrailsSpaghetti |
-| Bottle_Base | HumanSteakMeat | DadaCannibal_EyeballSoup |
-| Knife | HumanSteakMeat | DadaCannibal_Jerky |
-| Bones | Hammer | Bone Meal |
-| Bone Meal | Humansteak Meat | Waste Bread |
-| Waste Bread | Hammer | Waste Bread - Pizza |
-| Blood | Human Steak Meat | Blood Sauce |
-| Waste Bread - Pizza | Blood Sauce | Cannibal Pizza Marinara |
-|------------- | ------------- | ------------- |
 | Pliers | Dada_RawFoodCan_LSVeggies (Baked) | Dada_PreservedFoodCan_LSVeggies |
 | Knife/CanOpener | Dada_PreservedFoodCan_LSVeggies | Dada_PreservedFoodCan_Colorbase_Opened |
