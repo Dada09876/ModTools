@@ -43,8 +43,8 @@
         <lifetime>10800</lifetime>
         <restock>0</restock>
         <min>0</min>
-        <quantmin>3</quantmin>
-        <quantmax>12</quantmax>
+        <quantmin>25</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
@@ -99,8 +99,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>10</min>
-        <quantmin>1000</quantmin>
-        <quantmax>5000</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -274,8 +274,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -315,8 +315,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -356,8 +356,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -396,8 +396,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -437,8 +437,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -478,8 +478,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -517,8 +517,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -558,8 +558,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -599,8 +599,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -640,8 +640,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -681,8 +681,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -720,8 +720,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -761,8 +761,8 @@
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -802,8 +802,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="food"/>
@@ -838,8 +838,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="food"/>
@@ -873,8 +873,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -913,8 +913,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
-        <quantmin>100</quantmin>
-        <quantmax>450</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -1853,8 +1853,8 @@
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
@@ -1871,8 +1871,8 @@
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
+        <quantmin>20</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="food"/>
